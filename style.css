@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background: url(../Imagem-Projeto-Alura/Background.png) no-repeat;
+    background: url(Imagem-Projeto-Alura/Background.png) no-repeat;
     background-size: contain;
     height: 100vh;
     display: grid;
